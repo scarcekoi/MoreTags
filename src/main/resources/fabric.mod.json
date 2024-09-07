@@ -8,8 +8,9 @@
 		"scarcekoi"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"homepage": "",
+		"sources": "https://github.com/scarcekoi/MoreTags",
+		"issues": "https://github.com/scarcekoi/MoreTags/issues"
 	},
 	"license": "MIT License",
 	"icon": "assets/moretags/icon.png",
