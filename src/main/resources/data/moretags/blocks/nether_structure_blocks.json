@@ -1,0 +1,33 @@
+{
+  "values": [
+    "minecraft:polished_basalt",
+    "minecraft:blackstone_slab",
+    "minecraft:blackstone_stairs",
+    "minecraft:blackstone_wall",
+    "minecraft:gilded_blackstone",
+    "minecraft:polished_blackstone",
+    "minecraft:polished_blackstone_slab",
+    "minecraft:polished_blackstone_stairs",
+    "minecraft:polished_blackstone_bricks",
+    "minecraft:polished_blackstone_brick_slab",
+    "minecraft:polished_blackstone_brick_stairs",
+    "minecraft:polished_blackstone_brick_wall",
+    "minecraft:cracked_polished_blackstone_bricks",
+    "minecraft:chiseled_polished_blackstone",
+    "minecraft:bone_block",
+    "minecraft:gold_block",
+    "minecraft:chain",
+    "minecraft:chest",
+    "minecraft:crying_obsidian",
+    "minecraft:lantern",
+    "minecraft:spawner",
+    "minecraft:nether_bricks",
+    "minecraft:nether_brick_fence",
+    "minecraft:nether_brick_stairs",
+    "minecraft:nether_wart",
+    "minecraft:obsidian",
+    "minecraft:quartz_block",
+    "minecraft:smooth_quartz_block",
+    "minecraft:smooth_quartz_slab"
+  ]
+}

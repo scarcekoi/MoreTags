@@ -1,0 +1,10 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:bedrock",
+    "#minecraft:chorus_blocks",
+    "minecraft:end_stone",
+    "minecraft:obsidian",
+    "minecraft:iron_bars"
+  ]
+}

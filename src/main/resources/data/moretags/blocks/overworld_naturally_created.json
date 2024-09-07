@@ -1,0 +1,23 @@
+{
+  "values": [
+    "minecraft:air",
+    "#moretags:amethyst_shards",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:mycelium",
+    "minecraft:water",
+    "#moretags:mushrooms",
+    "#moretags:kelp",
+    "#minecraft:cave_vines",
+    "minecraft:pointed_dripstone",
+    "minecraft:cobblestone",
+    "minecraft:stone",
+    "minecraft:obsidian",
+    "minecraft:fire",
+    "minecraft:snow",
+    "minecraft:ice",
+    "minecraft:cactus",
+    "minecraft:sugar_cane",
+    "minecraft:vine"
+  ]
+}

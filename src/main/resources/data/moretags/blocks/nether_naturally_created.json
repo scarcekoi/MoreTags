@@ -1,0 +1,9 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:lava",
+    "#moretags:mushrooms",
+    "minecraft:obsidian",
+    "#moretags:nether_vines"
+  ]
+}

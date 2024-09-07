@@ -1,0 +1,27 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:ancient_debris",
+    "minecraft:basalt",
+    "minecraft:bedrock",
+    "minecraft:blackstone",
+    "minecraft:fire",
+    "#moretags:fungi",
+    "minecraft:glowstone",
+    "minecraft:gravel",
+    "minecraft:lava",
+    "minecraft:magma_block",
+    "#moretags:mushrooms",
+    "#moretags:nether_ores",
+    "minecraft:nether_sprouts",
+    "minecraft:netherrack",
+    "#minecraft:nylium",
+    "#moretags:nether_roots",
+    "minecraft:shroomlight",
+    "minecraft:soul_fire",
+    "#moretags:soul_blocks",
+    "#moretags:stems",
+    "#moretags:nether_vines",
+    "#minecraft:wart_blocks"
+  ]
+}

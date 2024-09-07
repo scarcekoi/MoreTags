@@ -1,0 +1,12 @@
+{
+  "values": [
+    "minecraft:air",
+    "minecraft:bedrock",
+    "#minecraft:dragon_egg",
+    "minecraft:end_stone",
+    "minecraft:fire",
+    "minecraft:iron_bars",
+    "minecraft:obsidian",
+    "minecraft:wall_torch"
+  ]
+}
