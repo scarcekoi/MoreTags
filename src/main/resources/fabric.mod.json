@@ -3,7 +3,7 @@
 	"id": "moretags",
 	"version": "${version}",
 	"name": "MoreTags",
-	"description": "A mod adds more tags to the game.",
+	"description": "Adds more tags to the game.",
 	"authors": [
 		"scarcekoi"
 	],
