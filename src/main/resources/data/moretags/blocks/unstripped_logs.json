@@ -1,12 +1,6 @@
 {
   "values": [
-    "minecraft:acacia_log",
-    "minecraft:birch_log",
-    "minecraft:cherry_log",
-    "minecraft:dark_oak_log",
-    "minecraft:jungle_log",
-    "minecraft:mangrove_log",
-    "minecraft:crimson_stem",
-    "minecraft:warped_stem"
+    "#moretags:overworld_unstripped_logs",
+    "#moretags:nether_unstripped_logs"
   ]
 }
